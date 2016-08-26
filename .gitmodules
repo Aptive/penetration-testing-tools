@@ -106,3 +106,111 @@
 [submodule "crowbar"]
 	path = Tools/crowbar
 	url = https://github.com/galkan/crowbar.git
+[submodule "tools-root/fuzzdb"]
+	path = tools-root/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "tools-root/testssl.sh"]
+	path = tools-root/testssl.sh
+	url = https://github.com/drwetter/testssl.sh.git
+[submodule "tools-root/SecLists"]
+	path = tools-root/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "tools-root/webshells"]
+	path = tools-root/webshells
+	url = https://github.com/BlackArch/webshells.git
+[submodule "tools-root/sqlmap"]
+	path = tools-root/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "tools-root/metasploit-framework"]
+	path = tools-root/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "tools-root/graudit"]
+	path = tools-root/graudit
+	url = https://github.com/wireghoul/graudit.git
+[submodule "tools-root/uacscript"]
+	path = tools-root/uacscript
+	url = https://github.com/Vozzie/uacscript.git
+[submodule "tools-root/MiniReverse_Shell_With_Parameters"]
+	path = tools-root/MiniReverse_Shell_With_Parameters
+	url = https://github.com/xillwillx/MiniReverse_Shell_With_Parameters.git
+[submodule "tools-root/wafw00f"]
+	path = tools-root/wafw00f
+	url = https://github.com/sandrogauci/wafw00f.git
+[submodule "tools-root/gnmap-parser"]
+	path = tools-root/gnmap-parser
+	url = https://github.com/nullmode/gnmap-parser.git
+[submodule "tools-root/Babadook"]
+	path = tools-root/Babadook
+	url = https://github.com/jseidl/Babadook.git
+[submodule "tools-root/azazel"]
+	path = tools-root/azazel
+	url = https://github.com/chokepoint/azazel.git
+[submodule "tools-root/reGeorg"]
+	path = tools-root/reGeorg
+	url = https://github.com/sensepost/reGeorg.git
+[submodule "tools-root/b374k"]
+	path = tools-root/b374k
+	url = https://github.com/b374k/b374k.git
+[submodule "tools-root/WeBaCoo"]
+	path = tools-root/WeBaCoo
+	url = https://github.com/anestisb/WeBaCoo.git
+[submodule "tools-root/cmdsql"]
+	path = tools-root/cmdsql
+	url = https://github.com/NetSPI/cmdsql.git
+[submodule "tools-root/python-pty-shells"]
+	path = tools-root/python-pty-shells
+	url = https://github.com/infodox/python-pty-shells.git
+[submodule "tools-root/proxychains-ng"]
+	path = tools-root/proxychains-ng
+	url = https://github.com/rofl0r/proxychains-ng.git
+[submodule "tools-root/icmpsh"]
+	path = tools-root/icmpsh
+	url = https://github.com/inquisb/icmpsh.git
+[submodule "tools-root/dnsftp"]
+	path = tools-root/dnsftp
+	url = https://github.com/breenmachine/dnsftp.git
+[submodule "tools-root/babel-sf"]
+	path = tools-root/babel-sf
+	url = https://github.com/attackdebris/babel-sf.git
+[submodule "tools-root/pwntools"]
+	path = tools-root/pwntools
+	url = https://github.com/Gallopsled/pwntools.git
+[submodule "tools-root/tools"]
+	path = tools-root/tools
+	url = https://github.com/nullsecuritynet/tools.git
+[submodule "tools-root/peda"]
+	path = tools-root/peda
+	url = https://github.com/longld/peda.git
+[submodule "tools-root/ropeme"]
+	path = tools-root/ropeme
+	url = https://github.com/packz/ropeme.git
+[submodule "tools-root/Ropper"]
+	path = tools-root/Ropper
+	url = https://github.com/sashs/Ropper.git
+[submodule "tools-root/shellconv"]
+	path = tools-root/shellconv
+	url = https://github.com/hasherezade/shellconv.git
+[submodule "tools-root/commix"]
+	path = tools-root/commix
+	url = https://github.com/stasinopoulos/commix.git
+[submodule "tools-root/wig"]
+	path = tools-root/wig
+	url = https://github.com/jekyc/wig.git
+[submodule "tools-root/CMSmap"]
+	path = tools-root/CMSmap
+	url = https://github.com/Dionach/CMSmap.git
+[submodule "tools-root/droopescan"]
+	path = tools-root/droopescan
+	url = https://github.com/droope/droopescan.git
+[submodule "tools-root/wpscan"]
+	path = tools-root/wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "tools-root/sonar.js"]
+	path = tools-root/sonar.js
+	url = https://github.com/mandatoryprogrammer/sonar.js.git
+[submodule "tools-root/patator"]
+	path = tools-root/patator
+	url = https://github.com/lanjelot/patator.git
+[submodule "tools-root/crowbar"]
+	path = tools-root/crowbar
+	url = https://github.com/galkan/crowbar.git
