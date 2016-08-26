@@ -1,0 +1,108 @@
+[submodule "fuzzdb"]
+	path = fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "testssl.sh"]
+	path = testssl.sh
+	url = https://github.com/drwetter/testssl.sh.git
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "webshells"]
+	path = webshells
+	url = https://github.com/BlackArch/webshells.git
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "metasploit-framework"]
+	path = metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "graudit"]
+	path = graudit
+	url = https://github.com/wireghoul/graudit.git
+[submodule "uacscript"]
+	path = uacscript
+	url = https://github.com/Vozzie/uacscript.git
+[submodule "MiniReverse_Shell_With_Parameters"]
+	path = MiniReverse_Shell_With_Parameters
+	url = https://github.com/xillwillx/MiniReverse_Shell_With_Parameters.git
+[submodule "wafw00f"]
+	path = wafw00f
+	url = https://github.com/sandrogauci/wafw00f.git
+[submodule "gnmap-parser"]
+	path = gnmap-parser
+	url = https://github.com/nullmode/gnmap-parser.git
+[submodule "Babadook"]
+	path = Babadook
+	url = https://github.com/jseidl/Babadook.git
+[submodule "azazel"]
+	path = azazel
+	url = https://github.com/chokepoint/azazel.git
+[submodule "reGeorg"]
+	path = reGeorg
+	url = https://github.com/sensepost/reGeorg.git
+[submodule "b374k"]
+	path = b374k
+	url = https://github.com/b374k/b374k.git
+[submodule "WeBaCoo"]
+	path = WeBaCoo
+	url = https://github.com/anestisb/WeBaCoo.git
+[submodule "cmdsql"]
+	path = cmdsql
+	url = https://github.com/NetSPI/cmdsql.git
+[submodule "python-pty-shells"]
+	path = python-pty-shells
+	url = https://github.com/infodox/python-pty-shells.git
+[submodule "proxychains-ng"]
+	path = proxychains-ng
+	url = https://github.com/rofl0r/proxychains-ng.git
+[submodule "icmpsh"]
+	path = icmpsh
+	url = https://github.com/inquisb/icmpsh.git
+[submodule "dnsftp"]
+	path = dnsftp
+	url = https://github.com/breenmachine/dnsftp.git
+[submodule "babel-sf"]
+	path = babel-sf
+	url = https://github.com/attackdebris/babel-sf.git
+[submodule "pwntools"]
+	path = pwntools
+	url = https://github.com/Gallopsled/pwntools.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/nullsecuritynet/tools.git
+[submodule "peda"]
+	path = peda
+	url = https://github.com/longld/peda.git
+[submodule "ropeme"]
+	path = ropeme
+	url = https://github.com/packz/ropeme.git
+[submodule "Ropper"]
+	path = Ropper
+	url = https://github.com/sashs/Ropper.git
+[submodule "shellconv"]
+	path = shellconv
+	url = https://github.com/hasherezade/shellconv.git
+[submodule "commix"]
+	path = commix
+	url = https://github.com/stasinopoulos/commix.git
+[submodule "wig"]
+	path = wig
+	url = https://github.com/jekyc/wig.git
+[submodule "CMSmap"]
+	path = CMSmap
+	url = https://github.com/Dionach/CMSmap.git
+[submodule "droopescan"]
+	path = droopescan
+	url = https://github.com/droope/droopescan.git
+[submodule "wpscan"]
+	path = wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "sonar.js"]
+	path = sonar.js
+	url = https://github.com/mandatoryprogrammer/sonar.js.git
+[submodule "patator"]
+	path = patator
+	url = https://github.com/lanjelot/patator.git
+[submodule "crowbar"]
+	path = crowbar
+	url = https://github.com/galkan/crowbar.git
