@@ -12,14 +12,12 @@ git clone https://github.com/Arr0way/penetration-testing-tools.git
 
 ### ssl-testing-tools
 
-@drweeter 
+* [testssl](/drwetter/testssl.sh) - ssl testing
 
-/drwetter/testssl.sh.git - ssl testing
+### infra
 
-infra
-
-git submodule add https://github.com/rapid7/metasploit-framework.git - metasploit framework
-git submodule add https://github.com/rofl0r/proxychains-ng.git - pivoting
+* [Metasploit Framework](/rapid7/metasploit-framework) - metasploit framework
+https://github.com/rofl0r/proxychains-ng.git - pivoting
 git submodule add https://github.com/breenmachine/dnsftp.git - Use only DNS queries to download a file, and then execute it
 git submodule add https://github.com/sensepost/reGeorg.git - pivoting via socks proxies
 git submodule add https://github.com/mandatoryprogrammer/sonar.js.git - A framework for identifying and launching exploits against internal network hosts.
