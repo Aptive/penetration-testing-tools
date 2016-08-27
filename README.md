@@ -5,7 +5,7 @@ A single repo containing all the latest bleeding edge [penetration testing](http
 ## Installation Instructions
 
 1. Fork repo (allows you to make changes to your tools using this as a base) 
-2. Git clont repo: 
+2. Git clone repo: 
 ```bash
 git clone https://github.com/Arr0way/penetration-testing-tools.git
 ``` 
