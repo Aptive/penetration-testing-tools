@@ -27,15 +27,18 @@ Table of Contents
 ## Installation Instructions
 
 1. Fork repo (allows you to make changes to your tools using this as a base) 
-2. git clone https://github.com/Arr0way/penetration-testing-tools.git
+2. Git clont repo: 
+```bash
+git clone https://github.com/Arr0way/penetration-testing-tools.git
+``` 
 
 In some cases further installation will be required, e.g. building binaries / installing configuring tools to suit your requirements. 
+
+## Update Instructions 
 
 ## Contributing to the repo
 
 To contribute, fork the repo and send a push request. 
-
-## Update Instructions 
 
 ## Included Penetration Testing Tools
 
