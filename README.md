@@ -4,6 +4,28 @@ One handy repo containing all the latest bleeding edge [penetration testing](htt
 
 I appreciate Kali Linux has most of the penetration testing tools available within this repo, however I often have a subset of pen testing tools that live under **~/Tools** used in addition for bleeding edge version or tools that have not yest found their way into Kali.   
 
+Table of Contents
+=================
+
+  * [Penetration Testing Tools](#penetration-testing-tools)
+    * [Installation Instructions](#installation-instructions)
+    * [Contributing to the repo](#contributing-to-the-repo)
+    * [Update Instructions](#update-instructions)
+    * [Included Penetration Testing Tools](#included-penetration-testing-tools)
+      * [SSL Testing Tools](#ssl-testing-tools)
+      * [Infrastructure Pen Testing Tools](#infrastructure-pen-testing-tools)
+      * [Shells](#shells)
+      * [Wordlists](#wordlists)
+      * [Web App Penetration testing Tools](#web-app-penetration-testing-tools)
+      * [Source Code Audit](#source-code-audit)
+      * [Bruteforce Tools](#bruteforce-tools)
+      * [Windows Tools](#windows-tools)
+      * [Powershell](#powershell)
+      * [Rootkits](#rootkits)
+      * [Misc](#misc)
+      * [Scripting Tools](#scripting-tools)
+      * [Exploit Development](#exploit-development)
+
 ## Installation Instructions
 
 1. Fork repo (allows you to make changes to your tools using this as a base) 
