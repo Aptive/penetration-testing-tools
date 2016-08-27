@@ -1,8 +1,6 @@
 # Penetration Testing Tools
 
-One handy repo containing all the latest bleeding edge [penetration testing](https://www.aptive.co.uk/penetration-testing/) tools, if you want a tool added to this repo - I accept push requests or you can leave me a comment and I'll add it. 
-
-I appreciate Kali Linux has most of the penetration testing tools available within this repo, however I often have a subset of pen testing tools that live under **~/Tools** used in addition for bleeding edge version or tools that have not yest found their way into Kali.   
+A single repo containing all the latest bleeding edge [penetration testing](https://www.aptive.co.uk/penetration-testing/) tools. The purpose of thise repo is to make a single repo for all the commonly used penetration testing tools, often tools that are out of date in Kali or have not found their way into Kali (or other pen testing repos). In some cases it's nice to have a bleeding edge version or tools seperate to your distro installed binaries or scripts residing in your home dir, allowing for easy transportation (from one kali machine to another).
 
 Table of Contents
 =================
