@@ -19,13 +19,13 @@ To contribute, fork the repo and send a push request.
 
 ## Included Penetration Testing Tools
 
-### SSL Testing Tools - ssl-testing-tools
+### SSL Testing Tools
 
-SSL Testing Tools:
+Location: [/ssl-testing-tools](/ssl-testing-tools) 
 
 * [testssl](https://github.com/drwetter/testssl.sh) - ssl testing
 
-### Infrastructure Pen Testing Tools - infra
+### Infrastructure Pen Testing Tools
 
 Location: [/infra](/infra) 
 
@@ -39,7 +39,9 @@ Intrastructure pen testing tools:
 * [NMAP](https://github.com/nmap/nmap.git) - NMAP the network mapper
 * [Port Scan Automation](https://github.com/commonexploits/port-scan-automation.git) - Automate NMAP scans and custom Nessus polices.
 
-### shells
+### Shells 
+
+Location: [/shells](/shells) 
 
 * [cmdsql](https://github.com/NetSPI/cmdsql) - Command execution, web.config parsing, and SQL query execution
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) - BlackArch web shells
@@ -47,12 +49,16 @@ Intrastructure pen testing tools:
 * [Python PTY Shells](https://github.com/infodox/python-pty-shells) - python pty shells
 * [MiniReverse Shell](https://github.com/xillwillx/MiniReverse_Shell_With_Parameters) - mini reverse shell
 
-### wordlists
+### Wordlists
+
+Location: [/wordlists](/wordlists) 
 
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - wordlist
 * [SecLists](https://github.com/danielmiessler/SecLists) - wordlist
 
-### web-app-pen-testing-tools
+### Web App Penetration testing Tools
+
+Location: [/web-app](/web-app) 
 
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - sql injection automation
 * [WafW00f](https://github.com/sandrogauci/wafw00f) - identify and fingerprint Web Application Firewall (WAF)
@@ -64,39 +70,55 @@ Intrastructure pen testing tools:
 * [Droop Scan](https://github.com/droope/droopescan) - A CMS vulnerability scanner for Drupal, Wordpress, SilverStripe
 * [WPScan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
 
-### source-code-audit
+### Source Code Audit
+
+Location: [/source-code-audit](/source-code-audit) 
 
 * [grAudit](https://github.com/wireghoul/graudit) - simple script and signature sets that allows you to find potential
 security flaws in source code using grep
 
-### bruteforce
+### Bruteforce Tools
+
+Location: [/bruteforce](/bruteforce) 
 
 * [Pator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer
 * [Crowbar](https://github.com/galkan/crowbar) - Bruteforcer - supports protocols not supported by THC-Hydra
 
-### windows
+### Windows Tools
+
+Location: [/windows](/windows) 
 
 * [UAC Script](https://github.com/Vozzie/uacscript) - UAC Bypass Vulnerability in Windows Script Host
 
-### powershell
+### Powershell
+
+Location: [/powershell](/powershell) 
 
 * [Badadook](https://github.com/jseidl/Babadook) - Connection-less Powershell Persistent and Resilient Backdoor
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Empire is a pure PowerShell post-exploitation agent
 
-### rootkit
+### Rootkits
+
+Location: [/rootkits](/rootkits) 
 
 * [Azael](https://github.com/chokepoint/azazel) - Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit
 
-### misc
+### Misc
+
+Location: [/misc](/misc) 
 
 * [Gnmap-Parser](https://github.com/nullmode/gnmap-parser) - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
 * [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
 
-### scripting
+### Scripting Tools
+
+Location: [/scripting](/scripting) 
 
 * [Babel SF](https://github.com/attackdebris/babel-sf) - Babel Scripting Framework - a collection of custom scripts to facilitate useful pentest related functions via scripting languages
 
-### exploit-dev
+### Exploit Development 
+
+Location: [/exploit-dev](/exploit-dev) 
 
 * [PEDA](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 * [ROPEME](https://github.com/packz/ropeme) - ROPEME - ROP Exploit Made Easy
