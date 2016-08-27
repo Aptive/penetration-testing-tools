@@ -4,19 +4,30 @@ One handy repo containing all the latest bleeding edge [penetration testing](htt
 
 I appreciate Kali Linux has most of the penetration testing tools available within this repo, however I often have a subset of pen testing tools that live under **~/Tools** used in addition for bleeding edge version or tools that have not yest found their way into Kali.   
 
-## Installation 
+## Installation Instructions
 
-git clone https://github.com/Arr0way/penetration-testing-tools.git
+1. Fork repo (allows you to make changes to your tools using this as a base) 
+2. git clone https://github.com/Arr0way/penetration-testing-tools.git
+
+In some cases further installation will be required, e.g. building binaries / installing configuring tools to suit your requirements. 
+
+## Contributing to the repo
+
+To contribute, fork the repo and send a push request. 
+
+## Update Instructions 
 
 ## Included Penetration Testing Tools
 
-### ssl-testing-tools
+### SSL Testing Tools - ssl-testing-tools
 
 SSL Testing Tools:
 
 * [testssl](https://github.com/drwetter/testssl.sh) - ssl testing
 
-### infra
+### Infrastructure Pen Testing Tools - infra
+
+Location: [/infra](/infra) 
 
 Intrastructure pen testing tools: 
 
