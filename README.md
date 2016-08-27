@@ -104,13 +104,6 @@ Location: [/rootkits](/rootkits)
 
 * [Azael](https://github.com/chokepoint/azazel) - Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit
 
-### Misc
-
-Location: [/misc](/misc) 
-
-* [Gnmap-Parser](https://github.com/nullmode/gnmap-parser) - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
-* [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
-
 ### Scripting Tools
 
 Location: [/scripting](/scripting) 
@@ -126,3 +119,10 @@ Location: [/exploit-dev](/exploit-dev)
 * [Ropper](https://github.com/sashs/Ropper) - ROP tool
 * [Shellconv](https://github.com/hasherezade/shellconv) - Small tool for disassembling shellcode (using objdump)
 * [PWNTools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
+
+### Misc
+
+Location: [/misc](/misc) 
+
+* [Gnmap-Parser](https://github.com/nullmode/gnmap-parser) - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
+* [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
