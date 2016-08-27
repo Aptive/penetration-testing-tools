@@ -14,13 +14,13 @@ git clone https://github.com/Arr0way/penetration-testing-tools.git
 
 SSL Testing Tools:
 
-* [testssl](/drwetter/testssl.sh) - ssl testing
+* [testssl](https://github.com/drwetter/testssl.sh) - ssl testing
 
 ### infra
 
 Intrastructure pen testing tools: 
 
-* [Metasploit Framework](/rapid7/metasploit-framework) - metasploit framework
+* [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - metasploit framework
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - pivoting
 * [dnsftp](https://github.com/breenmachine/dnsftp.git) - Use only DNS queries to download a file, and then execute it
 * [reGeorg](https://github.com/sensepost/reGeorg) - pivoting via socks proxies
@@ -28,67 +28,67 @@ Intrastructure pen testing tools:
 * [NMAP](https://github.com/nmap/nmap.git) - NMAP the network mapper
 * [Port Scan Automation](https://github.com/commonexploits/port-scan-automation.git) - Automate NMAP scans and custom Nessus polices.
 
-## shells
+### shells
 
 * [cmdsql](https://github.com/NetSPI/cmdsql) - Command execution, web.config parsing, and SQL query execution
-git submodule add https://github.com/BlackArch/webshells.git - web shells
-git submodule add https://github.com/b374k/b374k.git - web shell
-git submodule add https://github.com/infodox/python-pty-shells.git - python pty shells
-git submodule add https://github.com/xillwillx/MiniReverse_Shell_With_Parameters.git - mini reverse shell
+* [BlackArch Webshells](https://github.com/BlackArch/webshells) - BlackArch web shells
+* [b374k](https://github.com/b374k/b374k) - Web shell
+* [Python PTY Shells](https://github.com/infodox/python-pty-shells) - python pty shells
+* [MiniReverse Shell](https://github.com/xillwillx/MiniReverse_Shell_With_Parameters) - mini reverse shell
 
-wordlists
+### wordlists
 
-git submodule add https://github.com/fuzzdb-project/fuzzdb.git - wordlist
-git submodule add https://github.com/danielmiessler/SecLists.git - wordlist
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - wordlist
+* [SecLists](https://github.com/danielmiessler/SecLists) - wordlist
 
-web-app-pen-testing-tools
+### web-app-pen-testing-tools
 
-git submodule add https://github.com/sqlmapproject/sqlmap.git - sql injection automation
-git submodule add https://github.com/sandrogauci/wafw00f.git - identify and fingerprint Web Application Firewall (WAF)
-git submodule add https://github.com/inquisb/icmpsh.git - Simple reverse ICMP shell
-git submodule add https://github.com/anestisb/WeBaCoo.git - Web Backdoor Cookie Script-Kit
-git submodule add https://github.com/stasinopoulos/commix.git - Commix, automated injection based web vulnerability scanner
-git submodule add https://github.com/jekyc/wig.git  - WebApp Information Gatherer
-git submodule add https://github.com/Dionach/CMSmap.git - CMS vulnerability scanner
-git submodule add https://github.com/droope/droopescan.git - A CMS vulnerability scanner for Drupal, Wordpress, SilverStripe
-git submodule add https://github.com/wpscanteam/wpscan.git - WPScan is a black box WordPress vulnerability scanner
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) - sql injection automation
+* [WafW00f](https://github.com/sandrogauci/wafw00f) - identify and fingerprint Web Application Firewall (WAF)
+* [ICMP Reverse Shell](https://github.com/inquisb/icmpsh) - Simple reverse ICMP shell
+* [WeBaCoo](https://github.com/anestisb/WeBaCoo) - Web Backdoor Cookie Script-Kit
+* [Commix](https://github.com/stasinopoulos/commix) - Commix, automated injection based web vulnerability scanner
+* [WIG](https://github.com/jekyc/wig)  - WebApp Information Gatherer
+* [CMSmap](https://github.com/Dionach/CMSmap) - CMS vulnerability scanner
+* [Droop Scan](https://github.com/droope/droopescan) - A CMS vulnerability scanner for Drupal, Wordpress, SilverStripe
+* [WPScan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
 
-source-code-audit
+### source-code-audit
 
-git submodule add https://github.com/wireghoul/graudit.git - simple script and signature sets that allows you to find potential
+* [grAudit](https://github.com/wireghoul/graudit) - simple script and signature sets that allows you to find potential
 security flaws in source code using grep
 
-bruteforce
+### bruteforce
 
-git submodule add https://github.com/lanjelot/patator.git - Patator is a multi-purpose brute-forcer
-git submodule add https://github.com/galkan/crowbar.git - Bruteforcer - supports protocols not supported by THC-Hydra
+* [Pator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer
+* [Crowbar](https://github.com/galkan/crowbar) - Bruteforcer - supports protocols not supported by THC-Hydra
 
-windows
+### windows
 
-git submodule add https://github.com/Vozzie/uacscript.git - UAC Bypass Vulnerability in Windows Script Host
+* [UAC Script](https://github.com/Vozzie/uacscript) - UAC Bypass Vulnerability in Windows Script Host
 
-powershell
+### powershell
 
-git submodule add https://github.com/jseidl/Babadook.git - Connection-less Powershell Persistent and Resilient Backdoor
-https://github.com/PowerShellEmpire/Empire - Empire is a pure PowerShell post-exploitation agent
+* [Badadook](https://github.com/jseidl/Babadook) - Connection-less Powershell Persistent and Resilient Backdoor
+* [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Empire is a pure PowerShell post-exploitation agent
 
-rootkit
+### rootkit
 
-git submodule add https://github.com/chokepoint/azazel.git - Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit
+* [Azael](https://github.com/chokepoint/azazel) - Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit
 
-misc
+### misc
 
-git submodule add https://github.com/nullmode/gnmap-parser.git - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
-git submodule add https://github.com/nullsecuritynet/tools.git - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
+* [Gnmap-Parser](https://github.com/nullmode/gnmap-parser) - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
+* [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
 
-scripting
+### scripting
 
-git submodule add https://github.com/attackdebris/babel-sf.git - Babel Scripting Framework - a collection of custom scripts to facilitate useful pentest related functions via scripting languages
+* [Babel SF](https://github.com/attackdebris/babel-sf) - Babel Scripting Framework - a collection of custom scripts to facilitate useful pentest related functions via scripting languages
 
-exploit-dev
+### exploit-dev
 
-git submodule add https://github.com/longld/peda.git - PEDA - Python Exploit Development Assistance for GDB
-git submodule add https://github.com/packz/ropeme.git - ROPEME - ROP Exploit Made Easy
-git submodule add https://github.com/sashs/Ropper.git - ROP tool
-git submodule add https://github.com/hasherezade/shellconv.git - Small tool for disassembling shellcode (using objdump)
-git submodule add https://github.com/Gallopsled/pwntools.git - CTF framework and exploit development library
+* [PEDA](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
+* [ROPEME](https://github.com/packz/ropeme) - ROPEME - ROP Exploit Made Easy
+* [Ropper](https://github.com/sashs/Ropper) - ROP tool
+* [Shellconv](https://github.com/hasherezade/shellconv) - Small tool for disassembling shellcode (using objdump)
+* [PWNTools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
