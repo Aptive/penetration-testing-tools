@@ -12,21 +12,25 @@ git clone https://github.com/Arr0way/penetration-testing-tools.git
 
 ### ssl-testing-tools
 
+SSL Testing Tools:
+
 * [testssl](/drwetter/testssl.sh) - ssl testing
 
 ### infra
 
+Intrastructure pen testing tools: 
+
 * [Metasploit Framework](/rapid7/metasploit-framework) - metasploit framework
-https://github.com/rofl0r/proxychains-ng.git - pivoting
-git submodule add https://github.com/breenmachine/dnsftp.git - Use only DNS queries to download a file, and then execute it
-git submodule add https://github.com/sensepost/reGeorg.git - pivoting via socks proxies
-git submodule add https://github.com/mandatoryprogrammer/sonar.js.git - A framework for identifying and launching exploits against internal network hosts.
-git submodule add https://github.com/nmap/nmap.git - NMAP the network mapper
-git submodule add https://github.com/commonexploits/port-scan-automation.git - Automate NMAP scans and custom Nessus polices.
+* [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - pivoting
+* [dnsftp](https://github.com/breenmachine/dnsftp.git) - Use only DNS queries to download a file, and then execute it
+* [reGeorg](https://github.com/sensepost/reGeorg) - pivoting via socks proxies
+* [sonar.js](https://github.com/mandatoryprogrammer/sonar.js.git) - A framework for identifying and launching exploits against internal network hosts.
+* [NMAP](https://github.com/nmap/nmap.git) - NMAP the network mapper
+* [Port Scan Automation](https://github.com/commonexploits/port-scan-automation.git) - Automate NMAP scans and custom Nessus polices.
 
-shells
+## shells
 
-git submodule add https://github.com/NetSPI/cmdsql.git - Command execution, web.config parsing, and SQL query execution
+* [cmdsql](https://github.com/NetSPI/cmdsql) - Command execution, web.config parsing, and SQL query execution
 git submodule add https://github.com/BlackArch/webshells.git - web shells
 git submodule add https://github.com/b374k/b374k.git - web shell
 git submodule add https://github.com/infodox/python-pty-shells.git - python pty shells
