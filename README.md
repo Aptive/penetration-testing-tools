@@ -2,28 +2,6 @@
 
 A single repo containing all the latest bleeding edge [penetration testing](https://www.aptive.co.uk/penetration-testing/) tools. The purpose of thise repo is to make a single repo for all the commonly used penetration testing tools, often tools that are out of date in Kali or have not found their way into Kali (or other pen testing repos). In some cases it's nice to have a bleeding edge version or tools seperate to your distro installed binaries or scripts residing in your home dir, allowing for easy transportation (from one kali machine to another).
 
-Table of Contents
-=================
-
-  * [Penetration Testing Tools](#penetration-testing-tools)
-    * [Installation Instructions](#installation-instructions)
-    * [Contributing to the repo](#contributing-to-the-repo)
-    * [Update Instructions](#update-instructions)
-    * [Included Penetration Testing Tools](#included-penetration-testing-tools)
-      * [SSL Testing Tools](#ssl-testing-tools)
-      * [Infrastructure Pen Testing Tools](#infrastructure-pen-testing-tools)
-      * [Shells](#shells)
-      * [Wordlists](#wordlists)
-      * [Web App Penetration testing Tools](#web-app-penetration-testing-tools)
-      * [Source Code Audit](#source-code-audit)
-      * [Bruteforce Tools](#bruteforce-tools)
-      * [Windows Tools](#windows-tools)
-      * [Powershell](#powershell)
-      * [Rootkits](#rootkits)
-      * [Misc](#misc)
-      * [Scripting Tools](#scripting-tools)
-      * [Exploit Development](#exploit-development)
-
 ## Installation Instructions
 
 1. Fork repo (allows you to make changes to your tools using this as a base) 
