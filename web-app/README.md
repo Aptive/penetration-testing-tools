@@ -1,5 +1,7 @@
 ### Web App Penetration testing Tools
 
+A collection of web app testing tools - please contribute. 
+
 Location: [/web-app](/web-app) 
 
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - sql injection automation
