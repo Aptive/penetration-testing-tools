@@ -13,9 +13,6 @@
 [submodule "sqlmap"]
 	path = Tools/sqlmap
 	url = https://github.com/sqlmapproject/sqlmap.git
-[submodule "metasploit-framework"]
-    path = Tools/metasploit-framework
-	url = https://github.com/rapid7/metasploit-framework.git
 [submodule "graudit"]
 	path = Tools/graudit
 	url = https://github.com/wireghoul/graudit.git
