@@ -1,6 +1,6 @@
 # Penetration Testing Tools
 
-A single repo containing all the latest [pen testing](https://www.aptive.co.uk/penetration-testing/) tools. The purpose of this project is to make a single repo for all the commonly used penetration testing tools, often tools that are out of date in Kali or have not found their way into Kali (or other pen testing repos). In some cases it's nice to have a the latest version of a tool seperate to your distro installed binaries or scripts, allowing for easy transportation (from one kali machine to another).
+A single repo containing all the latest [penetration testing](https://www.aptive.co.uk/penetration-testing/) tools. The purpose of this project is to make a single repo for all the commonly used penetration testing tools, often tools that are out of date in Kali or have not found their way into Kali (or other pen testing repos). In some cases it's nice to have a the latest version of a tool seperate to your distro installed binaries or scripts, allowing for easy transportation (from one kali machine to another).
 
 ## Installation Instructions
 
@@ -49,12 +49,34 @@ Location: [/infra](/infra)
 Intrastructure pen testing tools: 
 
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - metasploit framework
+* [Responder](https://github.com/SpiderLabs/Responder) - LLMNR and NBT-NS Poisoning - capture passwords from typo'd smb \\server-addresses on the network
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - pivoting
+* [Net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
+* [smbexec](https://github.com/pentestgeek/smbexec) - A rapid psexec style attack with samba tools
 * [dnsftp](https://github.com/breenmachine/dnsftp.git) - Use only DNS queries to download a file, and then execute it
 * [reGeorg](https://github.com/sensepost/reGeorg) - pivoting via socks proxies
-* [sonar.js](https://github.com/mandatoryprogrammer/sonar.js.git) - A framework for identifying and launching exploits against internal network hosts.
+* [sonar.js](https://github.com/mandatoryprogrammer/sonar.js.git) - A framework for identifying and launching exploits against internal network hosts
+* [sonar.js](https://github.com/mandatoryprogrammer/sonar.js) -  A framework for identifying and launching exploits against internal network hosts.
+* [The Backdoor Factory](https://github.com/secretsquirrel/the-backdoor-factory) -  Patch PE, ELF, Mach-O binaries with shellcode - backdoor binaries so they continue to work normally
 * [NMAP](https://github.com/nmap/nmap.git) - NMAP the network mapper
 * [Port Scan Automation](https://github.com/commonexploits/port-scan-automation.git) - Automate NMAP scans and custom Nessus polices.
+
+### Redteam 
+
+Location: [/redteam](/redteam)
+
+* [Veil Framework](https://github.com/Veil-Framework/Veil) - a red team toolkit focused on evading detection (AV evasion & target delivery) 
+* [Phising Frenzy](https://github.com/pentestgeek/phishing-frenzy) - Ruby on Rails Phishing Framework
+
+### Recon 
+
+Location: [/recon](/recon) 
+
+* [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Take screenshots of websites, provide some server header info, and identify default credentials if possible
+* [Gitrob](https://github.com/michenriksen/gitrob) - Helps security professionals find sensitive information lingering in publicly available files on GitHub
+* [recon-ng](https://github.com/open-security/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) - open source footprinting and intelligence-gathering tool.
+
 
 ### Shells 
 
@@ -86,6 +108,8 @@ Location: [/web-app](/web-app)
 * [CMSmap](https://github.com/Dionach/CMSmap) - CMS vulnerability scanner
 * [Droop Scan](https://github.com/droope/droopescan) - A CMS vulnerability scanner for Drupal, Wordpress, SilverStripe
 * [WPScan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
+* [NoSQLMap](https://github.com/tcstool/NoSQLMap) - Automated Mongo database and NoSQL web application exploitation tool
+* [HTTPScreenShot](https://github.com/breenmachine/httpscreenshot) - HTTPScreenshot is a tool for grabbing screenshots and HTML of large numbers of websites
 
 ### Source Code Audit
 
@@ -105,7 +129,14 @@ Location: [/bruteforce](/bruteforce)
 
 Location: [/windows](/windows) 
 
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) - Extract plaintexts passwords, hash, PIN code and kerberos tickets from memory. mimikatz can also perform pass-the-hash, pass-the-ticket or build Golden tickets.
 * [UAC Script](https://github.com/Vozzie/uacscript) - UAC Bypass Vulnerability in Windows Script Host
+
+### Linux Scripts 
+
+Location: [linux](/linux) 
+
+* [Linux Local Enumeration Script](https://github.com/Arr0way/linux-local-enumeration-script) - Linux local enumeration script 
 
 ### Powershell
 
@@ -113,6 +144,8 @@ Location: [/powershell](/powershell)
 
 * [Badadook](https://github.com/jseidl/Babadook) - Connection-less Powershell Persistent and Resilient Backdoor
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Empire is a pure PowerShell post-exploitation agent
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) -  PowerSploit - A PowerShell Post-Exploitation Framework
+* [Nishang](https://github.com/samratashok/nishang) - PowerShell for penetration testing and offensive security
 
 ### Rootkits
 
