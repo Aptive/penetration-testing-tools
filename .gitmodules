@@ -340,3 +340,51 @@
 [submodule "exploit-dev/pwntools"]
 	path = exploit-dev/pwntools
 	url = https://github.com/Gallopsled/pwntools.git
+[submodule "windows/mimikatz"]
+	path = windows/mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "powershell/PowerSploit"]
+	path = powershell/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "recon/EyeWitness"]
+	path = recon/EyeWitness
+	url = https://github.com/ChrisTruncer/EyeWitness.git
+[submodule "web-app/httpscreenshot"]
+	path = web-app/httpscreenshot
+	url = https://github.com/breenmachine/httpscreenshot.git
+[submodule "recon/gitrob"]
+	path = recon/gitrob
+	url = https://github.com/michenriksen/gitrob.git
+[submodule "recon/spiderfoot"]
+	path = recon/spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "recon/recon-ng"]
+	path = recon/recon-ng
+	url = https://github.com/open-security/recon-ng.git
+[submodule "web-app/NoSQLMap"]
+	path = web-app/NoSQLMap
+	url = https://github.com/tcstool/NoSQLMap.git
+[submodule "infra/Responder"]
+	path = infra/Responder
+	url = https://github.com/SpiderLabs/Responder.git
+[submodule "powershell/nishang"]
+	path = powershell/nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "infra/net-creds"]
+	path = infra/net-creds
+	url = https://github.com/DanMcInerney/net-creds.git
+[submodule "redteam/Veil"]
+	path = redteam/Veil
+	url = https://github.com/Veil-Framework/Veil.git
+[submodule "linux/linux-local-enumeration-script"]
+	path = linux/linux-local-enumeration-script
+	url = https://github.com/Arr0way/linux-local-enumeration-script.git
+[submodule "redteam/phishing-frenzy"]
+	path = redteam/phishing-frenzy
+	url = https://github.com/pentestgeek/phishing-frenzy.git
+[submodule "infra/the-backdoor-factory"]
+	path = infra/the-backdoor-factory
+	url = https://github.com/secretsquirrel/the-backdoor-factory.git
+[submodule "infra/smbexec"]
+	path = infra/smbexec
+	url = https://github.com/pentestgeek/smbexec.git
