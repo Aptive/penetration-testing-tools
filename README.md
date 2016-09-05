@@ -7,7 +7,7 @@ A single repo containing all the latest [penetration testing](https://www.aptive
 1. Fork repo (allows you to make changes to your tools and or push to this repo) 
 2. Git clone repo: 
 ```bash
-git clone https://github.com/Arr0way/penetration-testing-tools.git
+git clone --recursive https://github.com/Arr0way/penetration-testing-tools.git
 ``` 
 
 In some cases further installation will be required, e.g. building binaries / installing configuring tools to suit your requirements. 
