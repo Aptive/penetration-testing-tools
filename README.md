@@ -1,6 +1,6 @@
 # Penetration Testing Tools Repo
 
-The purpose of this project is to make a single repo for all the commonly used penetration testing tools, often tools that are out of date in Kali or have not found their way into Kali (or other pen testing repos). In some cases it's nice to have a the latest version of a tool seperate to your distro installed binaries or scripts, allowing for easy transportation (from one kali machine to another).
+The purpose of this project is to make a single repository for all the commonly used penetration testing tools, typically tools that don't exist within Kali or other pen testing distros. In some cases it makes sense to have a the latest version of a tool seperate to your distro installed stable binaries or scripts. Installing from GitHub allows you to grab the latest tools specific to your style of pen testing that could be too niche to ever make it into your favorite pen testing distro. Having everything self contained within your home directory or /opt also allows for easy transportation from one (identical) machine to another.
 
 ## Installation Instructions
 
@@ -10,7 +10,7 @@ The purpose of this project is to make a single repo for all the commonly used p
 git clone --recursive https://github.com/Aptive/penetration-testing-tools.git
 ``` 
 
-In some cases further installation will be required, e.g. building binaries / installing configuring tools to suit your requirements. 
+In some cases further installation will be required, e.g. building binaries / installing configuring tools to suit your requirements, below are links to each distro managers page with installation instructions for each.
 
 ## Update Instructions 
 
