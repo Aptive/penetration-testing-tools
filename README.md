@@ -32,7 +32,7 @@ git submodule foreach git pull
 
 ## Contributing to the repo
 
-To contribute, fork the repo and send a push request. 
+To contribute, fork the repo and send a pull request. 
 
 ## Included Penetration Testing Tools
 
