@@ -174,4 +174,4 @@ Location: [/exploit-dev](/exploit-dev)
 Location: [/misc](/misc) 
 
 * [Gnmap-Parser](https://github.com/nullmode/gnmap-parser) - Gnmap-Parser takes multiple Nmap scans exported in greppable (.gnmap) format and parses them into various types of plain-text files for easy analysis.
-* [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - security and hacking tools, exploits, proof of concepts, shellcodes, scripts
+* [NullSecurity Tools](https://github.com/nullsecuritynet/tools) - pen testing and hacking tools, exploits, proof of concepts, shellcodes, scripts
