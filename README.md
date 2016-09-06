@@ -113,10 +113,13 @@ Location: [/web-app](/web-app)
 
 ### Source Code Audit
 
+SAST - SCR - Static Analysis 
+
 Location: [/source-code-audit](/source-code-audit) 
 
 * [grAudit](https://github.com/wireghoul/graudit) - simple script and signature sets that allows you to find potential
 security flaws in source code using grep
+* [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications 
 
 ### Bruteforce Tools
 

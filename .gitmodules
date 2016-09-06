@@ -385,3 +385,6 @@
 [submodule "infra/smbexec"]
 	path = infra/smbexec
 	url = https://github.com/pentestgeek/smbexec.git
+[submodule "source-code-audit/brakeman"]
+	path = source-code-audit/brakeman
+	url = https://github.com/presidentbeef/brakeman.git
