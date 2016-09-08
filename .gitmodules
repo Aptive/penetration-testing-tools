@@ -388,3 +388,9 @@
 [submodule "source-code-audit/brakeman"]
 	path = source-code-audit/brakeman
 	url = https://github.com/presidentbeef/brakeman.git
+[submodule "ssl-testing/sslscan"]
+	path = ssl-testing/sslscan
+	url = https://github.com/rbsec/sslscan.git
+[submodule "recon/SimplyEmail"]
+	path = recon/SimplyEmail
+	url = https://github.com/killswitch-GUI/SimplyEmail.git
