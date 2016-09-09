@@ -76,7 +76,8 @@ Location: [/recon](/recon)
 * [Gitrob](https://github.com/michenriksen/gitrob) - Helps security professionals find sensitive information lingering in publicly available files on GitHub
 * [recon-ng](https://github.com/open-security/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - open source footprinting and intelligence-gathering tool.
-
+* [SimplyEmail](https://github.com/killswitch-GUI/SimplyEmail) - Email recon
+  made fast and easy
 
 ### Shells 
 
@@ -149,6 +150,9 @@ Location: [/powershell](/powershell)
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Empire is a pure PowerShell post-exploitation agent
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) -  PowerSploit - A PowerShell Post-Exploitation Framework
 * [Nishang](https://github.com/samratashok/nishang) - PowerShell for penetration testing and offensive security
+* [BloodHound](https://github.com/adaptivethreat/BloodHound) - BloodHound uses
+  graph theory to reveal the hidden and often unintended relationships within
+  an Active Directory environment
 
 ### Rootkits
 
