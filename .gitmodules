@@ -394,3 +394,6 @@
 [submodule "recon/SimplyEmail"]
 	path = recon/SimplyEmail
 	url = https://github.com/killswitch-GUI/SimplyEmail.git
+[submodule "powershell/BloodHound"]
+	path = powershell/BloodHound
+	url = https://github.com/adaptivethreat/BloodHound.git
