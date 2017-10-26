@@ -355,9 +355,6 @@
 [submodule "recon/spiderfoot"]
 	path = recon/spiderfoot
 	url = https://github.com/smicallef/spiderfoot.git
-[submodule "recon/recon-ng"]
-	path = recon/recon-ng
-	url = https://github.com/open-security/recon-ng.git
 [submodule "web-app/NoSQLMap"]
 	path = web-app/NoSQLMap
 	url = https://github.com/tcstool/NoSQLMap.git
