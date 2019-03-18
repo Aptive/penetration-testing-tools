@@ -81,7 +81,7 @@
 	url = https://github.com/hasherezade/shellconv.git
 [submodule "commix"]
 	path = Tools/commix
-	url = https://github.com/stasinopoulos/commix.git
+	url = https://github.com/commixproject/commix.git
 [submodule "wig"]
 	path = Tools/wig
 	url = https://github.com/jekyc/wig.git
