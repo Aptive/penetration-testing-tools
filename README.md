@@ -52,7 +52,6 @@ Intrastructure pen testing tools:
 * [Responder](https://github.com/SpiderLabs/Responder) - LLMNR and NBT-NS Poisoning - capture passwords from typo'd smb \\server-addresses on the network
 * [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - pivoting
 * [Net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
-* [smbexec](https://github.com/pentestgeek/smbexec) - A rapid psexec style attack with samba tools
 * [dnsftp](https://github.com/breenmachine/dnsftp.git) - Use only DNS queries to download a file, and then execute it
 * [reGeorg](https://github.com/sensepost/reGeorg) - pivoting via socks proxies
 * [sonar.js](https://github.com/mandatoryprogrammer/sonar.js.git) - A framework for identifying and launching exploits against internal network hosts
@@ -74,7 +73,8 @@ Location: [/recon](/recon)
 
 * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Take screenshots of websites, provide some server header info, and identify default credentials if possible
 * [Gitrob](https://github.com/michenriksen/gitrob) - Helps security professionals find sensitive information lingering in publicly available files on GitHub
-* [recon-ng](https://github.com/open-security/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
+* [Spyse](https://spyse.com/) - All in one recon service. Automatically scans all the web and collects all info in its DB for instant data providing.
+* [recon-ng](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - open source footprinting and intelligence-gathering tool.
 * [SimplyEmail](https://github.com/killswitch-GUI/SimplyEmail) - Email recon
   made fast and easy
